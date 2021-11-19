@@ -1,24 +1,28 @@
 ### Hello, I'm Thom :raccoon:
-
 - <img src="https://assets-global.website-files.com/61549abf6fb9ca5e91bc5709/61549abf6fb9ca4e2fbc57a7_favicon_ios.png" style="width: 2vh" /> Web Development Student at Trybe
 - :man_technologist: ADS Student at FATEC Taubaté
+- :seedling: STEM Professional
+- :satellite: :art: Arts and Science Enthusiast
+- :v: Pronouns:  He / him / his
 
----
+##
+
+### Contacts:
+<a href="https://www.linkedin.com/in/wthomasferreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+##
+
+<br>
+<div style="display: inline_block">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="width: 4vh" align="center"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="width: 4vh" align="center"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width: 4vh" align="center"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="width: 4vh" align="center"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="width: 4vh" align="center"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="width: 4vh" align="center"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" style="width: 4vh" align="center"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" style="width: 4vh" align="center"/>
+</div>
+<br>
 
 [![Thoms's GitHub stats](https://github-readme-stats.vercel.app/api?username=WeltonThomasFerreira&show_icons=true&theme=monokai)](https://github.com/WeltonThomasFerreira/github-readme-stats)
-
-
-<!--
-**WeltonThomasFerreira/WeltonThomasFerreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
