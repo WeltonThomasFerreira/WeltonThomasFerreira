@@ -1,5 +1,10 @@
 ### Hello, I'm Thom :raccoon:
 
+- <img src="https://assets-global.website-files.com/61549abf6fb9ca5e91bc5709/61549abf6fb9ca4e2fbc57a7_favicon_ios.png" style="width: 2vh" /> Web Development Student at Trybe
+- :man_technologist: ADS Student at FATEC Taubaté
+
+---
+
 [![Thoms's GitHub stats](https://github-readme-stats.vercel.app/api?username=WeltonThomasFerreira&show_icons=true&theme=monokai)](https://github.com/WeltonThomasFerreira/github-readme-stats)
 
 
