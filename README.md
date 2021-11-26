@@ -22,6 +22,7 @@ Studying Docker, reading 'La Belle Sauvage' and playing 'Breath of the Wild'!
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25&logoWidth=20"/>
   <img src="https://img.shields.io/badge/css3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6&logoWidth=20"/>
+  <img src="https://img.shields.io/badge/docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED&logoWidth=20"/>
   <img src="https://img.shields.io/badge/eslint-0D1117?style=for-the-badge&logo=eslint&logoColor=4B32C3&logoWidth=20"/>
   <img src="https://img.shields.io/badge/git-0D1117?style=for-the-badge&logo=git&logoColor=F05032&logoWidth=20"/>
   <img src="https://img.shields.io/badge/github-0D1117?style=for-the-badge&logo=github&logoColor=fff&logoWidth=20"/>
