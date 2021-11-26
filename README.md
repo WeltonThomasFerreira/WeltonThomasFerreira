@@ -33,8 +33,8 @@
   <img src="https://img.shields.io/badge/npm-0D1117?style=for-the-badge&logo=npm&logoColor=CB3837&logoWidth=20"/>
   <img src="https://img.shields.io/badge/react-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&logoWidth=20"/>
   <img src="https://img.shields.io/badge/react router-0D1117?style=for-the-badge&logo=reactrouter&logoColor=CA4245&logoWidth=20"/>
-  <img src="https://img.shields.io/badge/redux toolkit-0D1117?style=for-the-badge&logo=redux&logoColor=764ABC&logoWidth=20"/>
   <img src="https://img.shields.io/badge/rtl-0D1117?style=for-the-badge&logo=testinglibrary&logoColor=E33332&logoWidth=20"/>
+  <img src="https://img.shields.io/badge/redux toolkit-0D1117?style=for-the-badge&logo=redux&logoColor=764ABC&logoWidth=20"/>
   <img src="https://img.shields.io/badge/stylelint-0D1117?style=for-the-badge&logo=stylelint&logoColor=fff&logoWidth=20"/>
 </div>
 <br>
