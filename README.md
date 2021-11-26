@@ -8,21 +8,23 @@
 ##
 
 ### Contacts:
-<a href="https://www.linkedin.com/in/wthomasferreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/wthomasferreira/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&logoWidth=20"/></a>
+
+
 
 ##
 
 <br>
 <div style="display: inline_block">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Fedora-logo.svg" width="32" align="center"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="32" align="center"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" align="center"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32" align="center"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32" align="center"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32" align="center"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="32" align="center"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="32" align="center"/>
+  <img src="https://img.shields.io/badge/fedora-000?style=for-the-badge&logo=fedora&logoColor=294172&logoWidth=20"/>
+  <img src="https://img.shields.io/badge/code-000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&logoWidth=20"/>
+  <img src="https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E&logoWidth=20"/>
+  <img src="https://img.shields.io/badge/css3-000?style=for-the-badge&logo=css3&logoColor=1572B6&logoWidth=20"/>
+  <img src="https://img.shields.io/badge/html5-000?style=for-the-badge&logo=html5&logoColor=E34F26&logoWidth=20"/>
+  <img src="https://img.shields.io/badge/react-000?style=for-the-badge&logo=react&logoColor=61DAFB&logoWidth=20"/>
+  <img src="https://img.shields.io/badge/redux-000?style=for-the-badge&logo=redux&logoColor=764ABC&logoWidth=20"/>
+  <img src="https://img.shields.io/badge/jest-000?style=for-the-badge&logo=jest&logoColor=C21325&logoWidth=20"/>
 </div>
 <br>
 
-[![Thoms's GitHub stats](https://github-readme-stats.vercel.app/api?username=WeltonThomasFerreira&show_icons=true&theme=monokai)](https://github.com/WeltonThomasFerreira/github-readme-stats)
+[![Thoms's GitHub stats](https://github-readme-stats.vercel.app/api?username=WeltonThomasFerreira&show_icons=true&theme=dark)](https://github.com/WeltonThomasFerreira/github-readme-stats)
