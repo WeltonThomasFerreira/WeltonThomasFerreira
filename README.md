@@ -7,6 +7,7 @@
 ##### :man_technologist: ADS Student at FATEC Taubaté
 ##### :seedling: STEM Professional
 ##### :satellite: Arts and Science Enthusiast
+##### :drop_of_blood: O+ Blood Donator
 ##### :v: Pronouns:  He / him / his
 
 #
