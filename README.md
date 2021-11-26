@@ -48,7 +48,7 @@ Studying Docker, reading 'La Belle Sauvage' and playing 'Breath of the Wild'!
   <img src="https://img.shields.io/badge/android-0D1117?style=for-the-badge&logo=android&logoColor=3DDC84logoWidth=20"/>
   <img src="https://img.shields.io/badge/code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&logoWidth=20"/>
   <img src="https://img.shields.io/badge/fedora-0D1117?style=for-the-badge&logo=fedora&logoColor=294172&logoWidth=20"/>
-  <img src="https://img.shields.io/badge/vivladi-0D1117?style=for-the-badge&logo=vivaldi&logoColor=EF3939&logoWidth=20"/>
+  <img src="https://img.shields.io/badge/vivaldi-0D1117?style=for-the-badge&logo=vivaldi&logoColor=EF3939&logoWidth=20"/>
 </div>
 <br>
 
