@@ -3,7 +3,7 @@
 Studying Docker, reading 'La Belle Sauvage' and playing 'Breath of the Wild'!
 ```
 
-##### <img src="https://assets-global.website-files.com/61549abf6fb9ca5e91bc5709/61549abf6fb9ca4e2fbc57a7_favicon_ios.png" width="14" style="aspect-ratio: auto 20 / 20;"/> Web Development Student at Trybe
+##### <img src="https://assets-global.website-files.com/61549abf6fb9ca5e91bc5709/61549abf6fb9ca4e2fbc57a7_favicon_ios.png" width="14em"/> Web Development Student at Trybe
 ##### :man_technologist: ADS Student at FATEC Taubaté
 ##### :seedling: STEM Professional
 ##### :satellite: Arts and Science Enthusiast
