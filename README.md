@@ -8,7 +8,7 @@
 ##
 
 ### Contacts:
-<a href="https://www.linkedin.com/in/wthomasferreira/" target="_blank"><img src="https://img.shields.io/badge/linkedin-ffffff?style=for-the-badge&logo=linkedin&logoColor=0A66C2&logoWidth=20"/></a>
+<a href="https://www.linkedin.com/in/wthomasferreira/" target="_blank"><img src="https://img.shields.io/badge/linkedin-D9D9D9?style=for-the-badge&logo=linkedin&logoColor=0A66C2&logoWidth=20"/></a>
 
 
 
