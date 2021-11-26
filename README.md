@@ -22,13 +22,19 @@
   <img src="https://img.shields.io/badge/css3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6&logoWidth=20"/>
   <img src="https://img.shields.io/badge/html5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26&logoWidth=20"/>
   <img src="https://img.shields.io/badge/react-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&logoWidth=20"/>
-  <img src="https://img.shields.io/badge/redux-0D1117?style=for-the-badge&logo=redux&logoColor=764ABC&logoWidth=20"/>
+  <img src="https://img.shields.io/badge/redux toolkit-0D1117?style=for-the-badge&logo=redux&logoColor=764ABC&logoWidth=20"/>
   <img src="https://img.shields.io/badge/jest-0D1117?style=for-the-badge&logo=jest&logoColor=C21325&logoWidth=20"/>
   <img src="https://img.shields.io/badge/git-0D1117?style=for-the-badge&logo=git&logoColor=F05032&logoWidth=20"/>
   <img src="https://img.shields.io/badge/github-0D1117?style=for-the-badge&logo=github&logoColor=fff&logoWidth=20"/>
-  <img src="https://img.shields.io/badge/reactrouter-0D1117?style=for-the-badge&logo=reactrouter&logoColor=CA4245&logoWidth=20"/>
+  <img src="https://img.shields.io/badge/react router-0D1117?style=for-the-badge&logo=reactrouter&logoColor=CA4245&logoWidth=20"/>
   <img src="https://img.shields.io/badge/rtl-0D1117?style=for-the-badge&logo=rtl&logoColor=E9113B&logoWidth=20"/>
   <img src="https://img.shields.io/badge/vivladi-0D1117?style=for-the-badge&logo=vivaldi&logoColor=EF3939&logoWidth=20"/>
+  <img src="https://img.shields.io/badge/bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25&logoWidth=20"/>
+  <img src="https://img.shields.io/badge/npm-0D1117?style=for-the-badge&logo=npm&logoColor=CB3837&logoWidth=20"/>
+  <img src="https://img.shields.io/badge/eslint-0D1117?style=for-the-badge&logo=eslint&logoColor=4B32C3&logoWidth=20"/>
+  <img src="https://img.shields.io/badge/stylelint-0D1117?style=for-the-badge&logo=stylelint&logoColor=fff&logoWidth=20"/>
+  <img src="https://img.shields.io/badge/slack-0D1117?style=for-the-badge&logo=slack&logoColor=4A154B&logoWidth=20"/>
+  <img src="https://img.shields.io/badge/trello-0D1117?style=for-the-badge&logo=trello&logoColor=0052CC&logoWidth=20"/>
 </div>
 <br>
 
