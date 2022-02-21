@@ -14,6 +14,7 @@
 
 ### CONTACTS
 <a href="https://www.linkedin.com/in/wthomasferreira/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&logoWidth=20"/></a>
+<a href="mailto:weltonthomasferreira@outlook.com" target="_blank"><img src="https://img.shields.io/badge/email-0D1117?style=for-the-badge&logo=microsoftoutlook&logoColor=0078D4&logoWidth=20"/></a>
 
 #
 
