@@ -74,4 +74,4 @@
 
 </br>
 
-[![Thoms's GitHub stats](https://github-readme-stats.vercel.app/api?username=WeltonThomasFerreira&show_icons=true&theme=dracula)](https://github.com/WeltonThomasFerreira/github-readme-stats)
+[![Thoms's GitHub stats](https://github-readme-stats.vercel.app/api?username=WeltonThomasFerreira&show_icons=true&theme=github_dark)](https://github.com/WeltonThomasFerreira/github-readme-stats)
