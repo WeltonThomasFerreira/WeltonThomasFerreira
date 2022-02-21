@@ -16,8 +16,8 @@
 
 </br>
 <div style="display: inline_block">
-<a href="https://www.linkedin.com/in/wthomasferreira/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff&logoWidth=20"/></a>
 <a href="mailto:weltonthomasferreira@outlook.com" target="_blank"><img src="https://img.shields.io/badge/email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=fff&logoWidth=20"/></a>
+<a href="https://www.linkedin.com/in/wthomasferreira/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff&logoWidth=20"/></a>
 </div>
 </br>
 
