@@ -42,6 +42,7 @@
   <img src="https://img.shields.io/badge/jwt-1c1c1c?style=for-the-badge&logo=jsonwebtokens&logoColor=fff&logoWidth=20"/>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=fff&logoWidth=20"/>
   <img src="https://img.shields.io/badge/mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=fff&logoWidth=20"/>
+  <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=fff&logoWidth=20"/>
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff&logoWidth=20"/>
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=fff&logoWidth=20"/>
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=fff&logoWidth=20"/>
