@@ -1,6 +1,6 @@
 ### Hello, I'm Thom :raccoon:
 ```
-// Studying Node.js, reading 'La Belle Sauvage' and playing 'Breath of the Wild'!
+// Studying Clean Architecture and TDD, reading 'La Belle Sauvage' and playing 'Breath of the Wild'!
 ```
 
 ##### <img src="https://assets-global.website-files.com/61549abf6fb9ca5e91bc5709/61549abf6fb9ca4e2fbc57a7_favicon_ios.png" width="14em"/> Web Development Student at Trybe
