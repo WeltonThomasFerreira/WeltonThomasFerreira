@@ -1,6 +1,6 @@
 ### Hello, I'm Thom :raccoon:
 ```
-// Studying Clean Architecture and TDD, reading 'La Belle Sauvage' and playing 'Breath of the Wild'!
+// Studying Python, reading 'Harry Potter and the Half-Blood Prince' and playing 'Hades'!
 ```
 
 ##### <img src="https://assets-global.website-files.com/61549abf6fb9ca5e91bc5709/61549abf6fb9ca4e2fbc57a7_favicon_ios.png" width="14em"/> Web Development Student at Trybe
@@ -45,6 +45,7 @@
   <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=fff&logoWidth=20"/>
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff&logoWidth=20"/>
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=fff&logoWidth=20"/>
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=fff&logoWidth=20"/>
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=fff&logoWidth=20"/>
   <img src="https://img.shields.io/badge/react router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=fff&logoWidth=20"/>
   <img src="https://img.shields.io/badge/rtl-E33332?style=for-the-badge&logo=testinglibrary&logoColor=fff&logoWidth=20"/>
