@@ -1,8 +1,8 @@
 ### Hello, I'm Thom :raccoon:
 ```
-// Studying Python, reading 'Harry Potter and the Half-Blood Prince' and playing 'Hades'!
+// Studying Angular, reading 'Harry Potter and the Deathly Hallows' and playing 'Celeste'!
 ```
-
+##### <img src="https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/49/df/2f/49df2fae-f690-1f8c-9479-b27cfbc6a065/source/60x60bb.jpg" width="14em"/> Full Stack Developer at Ford
 ##### <img src="https://assets-global.website-files.com/61549abf6fb9ca5e91bc5709/61549abf6fb9ca4e2fbc57a7_favicon_ios.png" width="14em"/> Web Development Student at Trybe
 ##### :man_technologist: ADS Student at FATEC Taubaté
 ##### :seedling: STEM Professional
@@ -27,6 +27,7 @@
 
 </br>
 <div style="display: inline_block">
+  <img src="https://img.shields.io/badge/angular-DD0031?style=for-the-badge&logo=angular&logoColor=fff&logoWidth=20"/>
   <img src="https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=fff&logoWidth=20"/>
   <img src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=fff&logoWidth=20"/>
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=fff&logoWidth=20"/>
@@ -40,6 +41,7 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=fff&logoWidth=20"/>
   <img src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=fff&logoWidth=20"/>
   <img src="https://img.shields.io/badge/jwt-1c1c1c?style=for-the-badge&logo=jsonwebtokens&logoColor=fff&logoWidth=20"/>
+  <img src="https://img.shields.io/badge/material-757575?style=for-the-badge&logo=material-design&logoColor=fff&logoWidth=20"/>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=fff&logoWidth=20"/>
   <img src="https://img.shields.io/badge/mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=fff&logoWidth=20"/>
   <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=fff&logoWidth=20"/>
@@ -65,8 +67,9 @@
   <img src="https://img.shields.io/badge/acer-83B81A?style=for-the-badge&logo=acer&logoColor=fff&logoWidth=20"/>
   <img src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=fff&logoWidth=20"/>
   <img src="https://img.shields.io/badge/code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=fff&logoWidth=20"/>
-  <img src="https://img.shields.io/badge/fedora-294172?style=for-the-badge&logo=fedora&logoColor=fff&logoWidth=20"/>
+  <img src="https://img.shields.io/badge/fedora%2036-294172?style=for-the-badge&logo=fedora&logoColor=fff&logoWidth=20"/>
   <img src="https://img.shields.io/badge/vivaldi-EF3939?style=for-the-badge&logo=vivaldi&logoColor=fff&logoWidth=20"/>
+  <img src="https://img.shields.io/badge/windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=fff&logoWidth=20"/>
 </div>
 </br>
 
