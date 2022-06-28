@@ -3,8 +3,8 @@
 // Studying Angular, reading 'Harry Potter and the Deathly Hallows' and playing 'Celeste'!
 ```
 
-##### <img src="https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/49/df/2f/49df2fae-f690-1f8c-9479-b27cfbc6a065/source/60x60bb.jpg" width='17em'/> Full Stack Developer at Ford
-##### <img src="https://assets-global.website-files.com/61549abf6fb9ca5e91bc5709/61549abf6fb9ca4e2fbc57a7_favicon_ios.png" width="17em"/> Web Development Student at Trybe
+##### :oncoming_automobile: Full Stack Developer at Ford
+##### :green_book: Web Development Student at Trybe
 ##### :man_technologist: ADS Student at FATEC Taubaté
 ##### :seedling: STEM Professional
 ##### :satellite: Arts and Science Enthusiast
@@ -39,6 +39,7 @@
   <img src="https://img.shields.io/badge/github-1c1c1c?style=for-the-badge&logo=github&logoColor=fff&logoWidth=20"/>
   <img src="https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=fff&logoWidth=20"/>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=fff&logoWidth=20"/>
+  <img src="https://img.shields.io/badge/jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=fff&logoWidth=20"/>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=fff&logoWidth=20"/>
   <img src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=fff&logoWidth=20"/>
   <img src="https://img.shields.io/badge/jwt-1c1c1c?style=for-the-badge&logo=jsonwebtokens&logoColor=fff&logoWidth=20"/>
@@ -54,6 +55,7 @@
   <img src="https://img.shields.io/badge/rtl-E33332?style=for-the-badge&logo=testinglibrary&logoColor=fff&logoWidth=20"/>
   <img src="https://img.shields.io/badge/redux toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=fff&logoWidth=20"/>
   <img src="https://img.shields.io/badge/sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=fff&logoWidth=20"/>
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=fff&logoWidth=20"/>
   <img src="https://img.shields.io/badge/stylelint-1c1c1c?style=for-the-badge&logo=stylelint&logoColor=fff&logoWidth=20"/>
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff&logoWidth=20"/>
 </div>
