@@ -71,6 +71,7 @@
   <img src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=fff&logoWidth=20"/>
   <img src="https://img.shields.io/badge/code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=fff&logoWidth=20"/>
   <img src="https://img.shields.io/badge/fedora%2036-294172?style=for-the-badge&logo=fedora&logoColor=fff&logoWidth=20"/>
+  <img src="https://img.shields.io/badge/intellij%20idea-1c1c1c?style=for-the-badge&logo=intellijidea&logoColor=fff&logoWidth=20"/>
   <img src="https://img.shields.io/badge/vivaldi-EF3939?style=for-the-badge&logo=vivaldi&logoColor=fff&logoWidth=20"/>
   <img src="https://img.shields.io/badge/windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=fff&logoWidth=20"/>
 </div>
