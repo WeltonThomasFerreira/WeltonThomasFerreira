@@ -1,12 +1,11 @@
 ### Hello, I'm Thom :raccoon:
 ```
-// Studying Angular, reading 'Harry Potter and the Deathly Hallows' and playing 'Celeste'!
+// Studying Angular - testing, reading 'American Gods' and playing 'Celeste'!
 ```
 
 ##### :oncoming_automobile: Full Stack Developer at Ford
-##### :green_book: Web Development Student at Trybe
-##### :man_technologist: ADS Student at FATEC Taubaté
-##### :seedling: STEM Professional
+##### :green_book: Trybe Beyonder
+##### :seedling: STEAM Professional
 ##### :satellite: Arts and Science Enthusiast
 ##### :drop_of_blood: O+ Blood Donator
 ##### :v: Pronouns:  He / him / his
