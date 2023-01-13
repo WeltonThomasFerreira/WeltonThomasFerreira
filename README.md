@@ -1,6 +1,6 @@
 ### Hello, I'm Thom :raccoon:
 ```
-// Studying Angular - testing, reading 'American Gods' and playing 'Celeste'!
+// Studying Angular - testing, reading 'American Gods' and playing 'Hades'!
 ```
 
 ##### :oncoming_automobile: Full Stack Developer at Ford
