@@ -1,6 +1,7 @@
 ### Hello, I'm Thom :raccoon:
+
 ```
-// Studying AI, reading 'Secret Commonwealth' and playing 'RDR2'!
+// Studying Front-end web development, reading 'How Do You Live?' and playing 'Zelda TOTK'!
 ```
 
 ##### :oncoming_automobile: Software Developer and Technical Product Manager at Ford
@@ -11,6 +12,9 @@
 ##### :v: Pronouns:  He / him / his
 
 #
+
+### About
+I work with people who give their best every day. My commitment is to share with them everything I know so we can go further. If we have to start somewhere, what better place than here and now? We have science, art, technology, and awareness to meet our current needs without compromising the ability of future generations to meet theirs.
 
 ### CONTACTS
 
