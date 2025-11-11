@@ -14,7 +14,7 @@
 #
 
 ### About
-I work with people who give their best every day. My commitment is to share with them everything I know so we can go further. If we have to start somewhere, what better place than here and now? We have science, art, technology, and awareness to meet our current needs without compromising the ability of future generations to meet theirs.
+Hello! I'm Thom, and I thrive working alongside people who commit to delivering their best every day. My commitment is to share everything I know to ensure we go further, together. If we have to start somewhere, what better place than right here, right now? We possess the science, art, technology, and consciousness necessary to meet our current needs without compromising the ability of future generations to meet theirs.
 
 ### CONTACTS
 
